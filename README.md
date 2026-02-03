@@ -1,2 +1,2 @@
 # SC-SFL
-Appendix
+To derive the R-round convergence bound for SC-SFL, we first present Lemma 1, which establishes an upper bound for the staleness-aware weights. This is followed by Lemma 2, where we derive the deviation of the local model from the global model after \(i\) iterations. Subsequently, Lemma 3 provides a bound on the drift between the global models in two consecutive rounds. Building on the results from Lemmas 1–3, we then prove Theorem 1 in the SC-SFL framework.
